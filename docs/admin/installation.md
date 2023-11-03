@@ -209,6 +209,10 @@ You can see the current mode at ``Administration -> Information``.
 
 ## Verify 
 
+- **Prerequisites**
+
+    Check the software prerequisites at: ``Administration -> Information -> Prerequisites``
+
 - **Cronjobs**
 
     You can find the last execution and number of open background jobs at: ``Administration -> Information -> Background jobs``
